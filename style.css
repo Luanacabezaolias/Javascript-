@@ -71,3 +71,10 @@ p{
     height: auto;
     width: auto;
 }
+
+#conteudo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(93, 20, 95);
+}
